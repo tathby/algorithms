@@ -1,0 +1,4 @@
+bool checkForEven(int num)
+{
+  return num%2==0;
+}
