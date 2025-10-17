@@ -1,0 +1,15 @@
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.AssemblyInfoInputs.cache
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.AssemblyInfo.cs
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.sourcelink.json
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\bin\Debug\net8.0\AerialVehicleAssignment.exe
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\bin\Debug\net8.0\AerialVehicleAssignment.deps.json
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\bin\Debug\net8.0\AerialVehicleAssignment.runtimeconfig.json
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\bin\Debug\net8.0\AerialVehicleAssignment.dll
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\bin\Debug\net8.0\AerialVehicleAssignment.pdb
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.dll
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\refint\AerialVehicleAssignment.dll
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.pdb
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\AerialVehicleAssignment.genruntimeconfig.cache
+C:\Users\lathb\source\repos\AerialVehicleAssignment\AerialVehicleAssignment\obj\Debug\net8.0\ref\AerialVehicleAssignment.dll
