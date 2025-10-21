@@ -1,0 +1,15 @@
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.AssemblyInfoInputs.cache
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.AssemblyInfo.cs
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.csproj.CoreCompileInputs.cache
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.sourcelink.json
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\bin\Debug\net8.0\HanoiTowerr.exe
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\bin\Debug\net8.0\HanoiTowerr.deps.json
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\bin\Debug\net8.0\HanoiTowerr.runtimeconfig.json
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\bin\Debug\net8.0\HanoiTowerr.dll
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\bin\Debug\net8.0\HanoiTowerr.pdb
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.dll
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\refint\HanoiTowerr.dll
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.pdb
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\HanoiTowerr.genruntimeconfig.cache
+C:\Users\lathb\source\repos\HanoiTowerr\HanoiTowerr\obj\Debug\net8.0\ref\HanoiTowerr.dll
