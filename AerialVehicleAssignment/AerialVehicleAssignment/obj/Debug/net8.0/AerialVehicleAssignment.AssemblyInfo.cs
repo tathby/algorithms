@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AerialVehicleAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814e74e99db2b151e6a9fc2773362f6ba6f26bc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+250a4961270682f1d91327c95e4964b43f6bf500")]
 [assembly: System.Reflection.AssemblyProductAttribute("AerialVehicleAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AerialVehicleAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

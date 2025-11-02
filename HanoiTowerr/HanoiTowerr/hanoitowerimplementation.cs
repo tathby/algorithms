@@ -1,17 +1,14 @@
-using System;
-using IteratorPattern;
-using System.Threading;
 public class TowerOfHanoi
 {
-    private readonly Stack<int>[] towers;
+    private readonly IteratorPattern.Stack<int>[] towers;
     private readonly int numDisks;
 
     public TowerOfHanoi(int numDisks)
     {
         this.numDisks = numDisks;
-        towers = new Stack<int>[3];
+        towers = new IteratorPattern.Stack<int>[3];
         for (int i = 0; i < 3; i++)
-            towers[i] = new Stack<int>();
+            towers[i] = new IteratorPattern.Stack<int>();
 
         for (int i = numDisks; i >= 1; i--)
             towers[0].Push(i);
@@ -97,7 +94,7 @@ public class TowerOfHanoi
     {
         Console.WriteLine($"\nAuto-solving Tower of Hanoi for {numDisks} disks...\n");
 
-        Queue<(int from, int to)> moves = new Queue<(int from, int to)>();
+        IteratorPattern.Queue<(int from, int to)> moves = new IteratorPattern.Queue<(int from, int to)>();
         GenerateMoves(numDisks, 0, 2, 1, moves);
 
         while (moves.GetIterator().HasNext())
@@ -111,7 +108,7 @@ public class TowerOfHanoi
         Console.WriteLine("\n✅ Auto-solve complete!");
     }
 
-    private void GenerateMoves(int n, int from, int to, int aux, Queue<(int, int)> queue)
+    private void GenerateMoves(int n, int from, int to, int aux, IteratorPattern.Queue<(int, int)> queue)
     {
         if (n == 1)
         {

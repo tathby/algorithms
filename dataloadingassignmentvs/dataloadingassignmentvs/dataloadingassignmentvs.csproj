@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\..\Implements\iterator.cs" Link="iterator.cs" />
+    <Compile Include="..\..\Implements\linkedlist.cs" Link="linkedlist.cs" />
+    <Compile Include="..\..\Implements\map.cs" Link="map.cs" />
+    <Compile Include="..\..\Implements\queue.cs" Link="queue.cs" />
+    <Compile Include="..\..\Implements\stacks.cs" Link="stacks.cs" />
+  </ItemGroup>
+
 </Project>

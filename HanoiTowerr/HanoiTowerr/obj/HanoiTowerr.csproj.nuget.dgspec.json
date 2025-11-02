@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lathb\\source\\repos\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj": {}
+    "C:\\Users\\lathb\\source\\repos\\algoportfolio\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lathb\\source\\repos\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj": {
+    "C:\\Users\\lathb\\source\\repos\\algoportfolio\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lathb\\source\\repos\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj",
+        "projectUniqueName": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj",
         "projectName": "HanoiTowerr",
-        "projectPath": "C:\\Users\\lathb\\source\\repos\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj",
+        "projectPath": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\HanoiTowerr\\HanoiTowerr\\HanoiTowerr.csproj",
         "packagesPath": "C:\\Users\\lathb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lathb\\source\\repos\\HanoiTowerr\\HanoiTowerr\\obj\\",
+        "outputPath": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\HanoiTowerr\\HanoiTowerr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lathb\\source\\repos\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj": {}
+    "C:\\Users\\lathb\\source\\repos\\algoportfolio\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lathb\\source\\repos\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj": {
+    "C:\\Users\\lathb\\source\\repos\\algoportfolio\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lathb\\source\\repos\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj",
+        "projectUniqueName": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj",
         "projectName": "dataloadingassignmentvs",
-        "projectPath": "C:\\Users\\lathb\\source\\repos\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj",
+        "projectPath": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\dataloadingassignmentvs\\dataloadingassignmentvs\\dataloadingassignmentvs.csproj",
         "packagesPath": "C:\\Users\\lathb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lathb\\source\\repos\\dataloadingassignmentvs\\dataloadingassignmentvs\\obj\\",
+        "outputPath": "C:\\Users\\lathb\\source\\repos\\algoportfolio\\dataloadingassignmentvs\\dataloadingassignmentvs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

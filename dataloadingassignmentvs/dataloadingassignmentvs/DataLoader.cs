@@ -1,4 +1,5 @@
-﻿using System.Xml;
+﻿using IteratorPattern;
+using System.Xml;
 
 namespace dataloadingassignmentvs
 {
@@ -6,9 +7,9 @@ namespace dataloadingassignmentvs
     public class DataLoader
     {
         public string[] array;
-        public Dictionary<int, string> dictionary;
-        public Stack<string> stack;
-        public Queue<string> queue;
+        public Map map;
+        public IteratorPattern.Stack<string> stack;
+        public IteratorPattern.Queue<string> queue;
 
         public DataLoader()
         {
@@ -18,13 +19,13 @@ namespace dataloadingassignmentvs
             XmlNodeList nodes = doc.GetElementsByTagName("spell");
 
             array = new string[nodes.Count];
-            dictionary = new Dictionary<int, string>();
-            stack = new Stack<string>();
-            queue = new Queue<string>();
+            map = new Map(1, nodes.Count);
+            stack = new IteratorPattern.Stack<string>();
+            queue = new IteratorPattern.Queue<string>();
             for (int i = 0; i < nodes.Count; i++)
             {
                 array[i] = nodes[i].InnerText;
-                dictionary.Add(i, nodes[i].InnerText);
+                map.SetTile(0, i, nodes[i].InnerText);
                 stack.Push(nodes[i].InnerText);
                 queue.Enqueue(nodes[i].InnerText);
             }
@@ -33,9 +34,12 @@ namespace dataloadingassignmentvs
             {
                 Console.WriteLine(spell);
             }
-            foreach (var kvp in dictionary)
+            for (int i = 0; i < map.Rows; i++)
             {
-                Console.WriteLine($"Key: {kvp.Key}, Value: {kvp.Value}");
+                for (int j = 0; j < map.Cols; j++)
+                {
+                    Console.WriteLine($"[{i},{j}] = {map.GetTile(i, j)}");
+                }
             }
             while (stack.Count > 0)
             {
