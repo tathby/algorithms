@@ -1,5 +1,6 @@
 // LinkedList Implementation in C#
-namespace IteratorPattern;
+namespace AlgoPortfolio.Implements;
+
 public class LinkedListNode<T>
 {
     public T Value;

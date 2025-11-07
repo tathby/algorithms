@@ -1,5 +1,7 @@
-namespace IteratorPattern;
+namespace AlgoPortfolio.Implements;
 
+using System;
+using System.Collections.Generic;
 
 public class StackIterator<T> : IIterator<T>
 {

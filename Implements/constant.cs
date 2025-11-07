@@ -1,4 +1,9 @@
-bool checkForEven(int num)
+namespace AlgoPortfolio.Implements;
+public static class Constant
 {
-  return num%2==0;
-} //checks once for an even integer, running a constant amonut of time (once) every run
+  public static bool CheckForEven(int num)
+  {
+    // checks once for an even integer, running a constant amount of time (once) every run
+    return num % 2 == 0;
+  }
+}

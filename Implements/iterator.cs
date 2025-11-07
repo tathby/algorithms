@@ -1,4 +1,5 @@
-namespace IteratorPattern;
+namespace AlgoPortfolio.Implements;
+
 public interface IIterator<T>
 {
     bool HasNext();

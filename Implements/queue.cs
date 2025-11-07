@@ -1,5 +1,6 @@
 // Queue Implementation
-namespace IteratorPattern;
+namespace AlgoPortfolio.Implements;
+
 public class QueueIterator<T> : IIterator<T>
 {
     private LinkedListNode<T> current;

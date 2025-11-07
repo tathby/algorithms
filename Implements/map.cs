@@ -1,5 +1,6 @@
-namespace IteratorPattern;
+namespace AlgoPortfolio.Implements;
 
+using System;
 public class Map
 {
     private readonly string[,] tiles;

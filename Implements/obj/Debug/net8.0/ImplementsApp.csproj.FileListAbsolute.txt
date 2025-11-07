@@ -1,0 +1,15 @@
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.AssemblyInfoInputs.cache
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.AssemblyInfo.cs
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.csproj.CoreCompileInputs.cache
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.sourcelink.json
+C:\Users\lathb\source\repos\algoportfolio\Implements\bin\Debug\net8.0\ImplementsApp.exe
+C:\Users\lathb\source\repos\algoportfolio\Implements\bin\Debug\net8.0\ImplementsApp.deps.json
+C:\Users\lathb\source\repos\algoportfolio\Implements\bin\Debug\net8.0\ImplementsApp.runtimeconfig.json
+C:\Users\lathb\source\repos\algoportfolio\Implements\bin\Debug\net8.0\ImplementsApp.dll
+C:\Users\lathb\source\repos\algoportfolio\Implements\bin\Debug\net8.0\ImplementsApp.pdb
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.dll
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\refint\ImplementsApp.dll
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.pdb
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ImplementsApp.genruntimeconfig.cache
+C:\Users\lathb\source\repos\algoportfolio\Implements\obj\Debug\net8.0\ref\ImplementsApp.dll

@@ -1,12 +1,19 @@
-int NumEvenInList(IList<int> list)
+using AlgoPortfolio.Implements;
+
+namespace AlgoPortfolio.Implements;
+
+public class Linear
 {
-    int ans = 0;
-    foreach (var element in list)
+    public static int NumEvenInList(IList<int> list)
     {
-        if (element % 2 == 0)
+        int ans = 0;
+        foreach (var element in list)
         {
-            ans++;
+            if (Constant.CheckForEven(element))
+            {
+                ans++;
+            }
         }
-    }
-    return ans;
-} //checks for evens through all elements in the list, increasing linearly by each extra element in the list
+        return ans;
+    } //checks for evens through all elements in the list, increasing linearly by each extra element in the list
+}
